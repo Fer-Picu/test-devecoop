@@ -23,7 +23,7 @@
     - en caso de no estar cerrada la votación, muestra el % de votantes que ya votaron y el total de votantes
     - en caso de ya cerrada la votación, muestra los resultados y ganador
   - **Se espera poder tener la información suficiente para en caso de necesitarse se pueda obtener el % de votos a favor de cada partido en determinada zona**
-
+  - **Se valora también las buenas prácticas y el uso y entendimiento del entorno del proyecto**
 ## Requisitos previos
 
 ### Python
