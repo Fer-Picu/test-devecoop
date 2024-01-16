@@ -8,7 +8,7 @@
   - **has_voted_percentage**
 - Contexto:
   - Este sistema contempla la votación para **balotaje**
-  - El sitio de ejemplo de votaciones generales: [elecciones 2023](https://resultados.gob.ar/elecciones/1/0/1/-1/-1#agrupaciones)
+  - El sitio de ejemplo de votaciones generales: [elecciones 2023](https://resultados.gob.ar/resultados/2023/3/1/2)
   - Reglas que podrías tener que utilizar: [clases-de-votos](https://www.argentina.gob.ar/dine/clases-de-votos)
 - Requisitos:
   - Página para votación
